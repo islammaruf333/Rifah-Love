@@ -63,7 +63,7 @@ export default function LoveMessage() {
             >
               "...এবং সে থামল, তার চোখের দিকে গভীরভাবে তাকিয়ে।"
               <span className="block mt-4 p-4 bg-rose-light/50 rounded-xl border border-rose/20 text-foreground font-romantic text-2xl">
-                'আমি তোমাকে আরও বেশি ভালোবাসতে চাই (তাসনিয়া) এবং আমাকে একটি আলিঙ্গন দিবে?'
+                "আমি তোমাকে আরও বেশি ভালোবাসতে চাই (তাসনিয়া)"
               </span>
             </motion.p>
 
@@ -75,7 +75,7 @@ export default function LoveMessage() {
               transition={{ delay: 0.4 }}
             >
               <span className="font-romantic text-3xl md:text-4xl text-rose-dark">
-                'সোনা আমার, আমি তোমার আলিঙ্গন এবং ভালোবাসা চাই।'
+                'সোনা আমার,সাদিকের ভালোবাসা'
               </span>
             </motion.p>
 
